@@ -26,8 +26,7 @@
 <strong>Technologies Used:</strong>
 <ul>
 <li>Python – Used as the main programming language for developing AI.</li>
-<li>LangChain - Abstracts complexity of working with LLMs and Provides pre-built components (document loaders, text splitters, chains).
-    Standardized interfaces for different LLM providers.Simplifies prompt management and chain orchestration.</li>
+<li>LangChain - Abstracts complexity of working with LLMs and Provides pre-built components (document loaders, text splitters, chains). Standardized interfaces for different LLM providers.Simplifies prompt management and chain orchestration.</li>
 <li>LangGraph –Enables multi-step workflows with clear data flow and state management. Perfect for RAG pipelines (retriever → responder pattern). Handles branching and complex agentic logic.Better than simple chains for stateful applications</li>
 <li>OpenAI GPT-4o - Best-in-class reasoning and answer quality.Strong context understanding for synthesizing answers from retrieved documents.Industry standard trusted by enterprise applications </li>
 <li>OpenAI Embeddings - Used to convert text into vector representations for semantic search and retrieval. High-quality semantic understanding for retrieval </li>
