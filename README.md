@@ -36,6 +36,16 @@
 <li>ReAct Agent Pattern -  Enables intelligent reasoning before tool use.Allows intelligent tool selection (when to use retriever vs. Wikipedia) and More human-like problem-solving approach</li>
 </ul>
 
+# Output
+
+<img width="5356" height="2392" alt="IMG-20260702-WA0294" src="https://github.com/user-attachments/assets/a1c76bd0-9f84-489b-ac4c-f5d47009fbc4" />
+
+<img width="5324" height="2540" alt="IMG-20260702-WA0287" src="https://github.com/user-attachments/assets/5d2f96e8-758b-489b-8f4d-8aa2e1045330" />
+
+
+
+
+
 
 
 
